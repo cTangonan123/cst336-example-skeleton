@@ -20,7 +20,7 @@
     - [ ] Back-end:
       - one: ==?==
       - two: ==?==
-  - [ ] Set next Meeting @ ==?==
+  - [ ] Set next Meeting/Interval @ ==?==
 
   ---
 ### Team Project Plan: Requirements
