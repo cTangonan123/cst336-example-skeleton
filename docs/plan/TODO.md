@@ -2,13 +2,13 @@
 - [ ] meeting @4pm Nov. 26th on [Discord](https://discord.gg/BMxRgARh)
   - [ ] pick a topic, due date for Final Project is Dec 12th (16 Days)
   - [ ] plan accordingly: 
-    - [ ] [ERD Diagram](/docs/plan/diagramER.md) for Database
+    - [ ] [ERD Diagram](/docs/plan/diagram-ER.md) for Database
       - assigned to: 
     - [ ] [Views Diagrams](/docs/plan/diagram-views.md) for Front-end
       - assigned to:
-    - [ ] [State Diagram](/docs/plan/diagramStateDiagram.md) for back-end and routing
+    - [ ] [State Diagram](/docs/plan/diagram-State.md) for back-end and routing
       - assigned to:
-    - [ ] [UI Diagram](/docs/plan/diagramUI.md) for front-end and routing
+    - [ ] [UI Diagram](/docs/plan/diagram-UI.md) for front-end and routing
       - assigned to:
     - [ ] ~~Compile [Use Cases](/docs/plan/plan-UseCases.md)~~
       - ~~assigned to:~~
