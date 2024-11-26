@@ -1,4 +1,4 @@
-# Use Cases
+# Use Cases: Example
 ## Table of Content
 - [Click Event on `x` on view `y`](#use-case-1-click-event-on-x-on-view-y)
 - [Click Event on `w` on view `z`](#use-case-2-click-event-on-w-on-view-z)
@@ -20,4 +20,4 @@
 4. `server` response ok sent json back to `client.js`
     1. server response not ok sent error to `client.js`
     2. `client.js` handles error, no changes made
-5. response ok, `client.js` parses `JSON` and populates view with `new` elements.
+5. response ok, `client.js` parses `JSON` and replaces `old` elements view with `new` elements.

@@ -2,7 +2,9 @@
 ## Resources:
 - [mermaid chart diagram](https://www.mermaidchart.com/)
 
+### Link to Work in Progress:
+[currently working on this file]()
 ---
-## Example:
-![example State Diagram](/docs/img/StateDiagram.png)
+## Example of State Diagram: User clicks `x` button
+![example State Diagram](/docs/img/example-StateDiagram.png)
 

@@ -2,10 +2,18 @@
 for our group project, implementing documentation, so single source to find our planning
 
 ---
-## Documentation
+## Documentation Example
 - [This is an example](/docs/example.md)
 - [This links to a README.md in the exampleFolder](/docs/exampleFolder/)
 - [This links to the someOtherDoc.md in the exampleFolder](/docs/exampleFolder/someOtherDoc.md)
+
+## Table of Contents
+- [TODO's for meeting](/docs/plan/TODO.md)
+- Diagrams needed by:
+  - [Entity Relationship Diagram](/docs/plan/diagram-ER.md)
+  - [State Diagram](/docs/plan/diagram-State.md)
+  - [UI Diagram](/docs/plan/diagram-UI.md)
+  - [Views Diagrams](/docs/plan/diagram-views.md)
 
 ---
 ## Basic Syntax for Markdown:
