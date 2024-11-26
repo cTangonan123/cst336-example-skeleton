@@ -8,4 +8,4 @@
 
 ---
 ## Example Diagram: movie review diagram
-![exampleERD](/docs/img/example-ER-Diagram.png)
+![exampleERD](/docs/img/example-ER-diagram.png)
