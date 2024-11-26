@@ -1,0 +1,21 @@
+# TODO:
+- [ ] meeting @4pm Nov. 26th on [Discord](https://discord.gg/BMxRgARh)
+  - [ ] pick a topic, due date is Dec 12th (16 Days)
+  - [ ] plan accordingly: 
+    - [ ] ERD Diagram for Database
+      - assigned to: 
+    - [ ] UI Diagram for front-end
+      - assigned to:
+    - [ ] State Diagram for back-end and routing
+      - assigned to:
+    - [ ] Compile Use Cases
+      - assigned to:
+  - [ ] Set Rough Date for Plan completion @ ==?==
+  - [ ] Assign Roles:
+    - [ ] Front-end:
+      - one: ==?==
+      - two: ==?==
+    - [ ] Back-end:
+      - one: ==?==
+      - two: ==?==
+  - [ ] Set next Meeting @ ==?==
