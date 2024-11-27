@@ -14,12 +14,7 @@
       - ~~assigned to:~~
   - [ ] Set Rough Date for Plan completion @ ==?==
   - [ ] Assign Roles:
-    - [ ] Front-end:
-      - one: ==?==
-      - two: ==?==
-    - [ ] Back-end:
-      - one: ==?==
-      - two: ==?==
+    - [ ] We're going full-stack (back-end and front-end) distribute via views
   - [ ] Set next Meeting/Interval @ ==?==
 
   ---
